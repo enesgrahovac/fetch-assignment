@@ -1,3 +1,6 @@
+# I made a Loom video to help you set up this Docker image
+https://www.loom.com/share/c338c35e250a404d8f8f32780614c67f
+
 # 1. Change directory into this git repository
 
 # 2. Turn on Docker on my computer
