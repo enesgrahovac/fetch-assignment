@@ -1,0 +1,3 @@
+DATA_FOLDER_PATH = "./data/"
+SAVED_MODELS_PATH = DATA_FOLDER_PATH+"saved_models/"
+PATH_TO_ALL_DATA = DATA_FOLDER_PATH + "data_daily.csv"
